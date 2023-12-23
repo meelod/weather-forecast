@@ -1,4 +1,4 @@
-# WeatherForecast
+# Weather Forecast
 
 This program applies linear regression to predict weather temperatures given past temperature data.
 
